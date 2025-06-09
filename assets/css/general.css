@@ -1,0 +1,136 @@
+.footer .copyright li:first-child {
+    margin-top: 0;
+}
+.container-footer {
+  padding-top: 30px !important;
+}
+.copyright {
+  text-align: center;
+  color: #ffffff;
+}
+
+.contenedor-logo{
+    max-width: 100px;
+    width: 100%;
+    margin-left: 40px;
+}
+.footer_info {
+  display: flex;
+  align-items: center;
+}
+.footer_info {
+  display: flex;
+  align-items: center;
+}
+.container-logo-footer {
+  height: 100%;
+  background-color: #009e78;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  max-width: 20%;
+}
+.logo-footer {
+  width: 100%;
+  max-width: 200px;
+  margin: auto;
+}
+.container-info-footer {
+  width: 100%;
+  max-width: 80%;
+  background-color: #04271f;
+}
+.container-grid-info-footer {
+  display: block;
+  padding: 30px 0px;
+}
+.logo-footer-negativo {
+  width: 100%;
+  max-width: 250px;
+  margin: auto;
+}
+.container-grid-logo-negativo {
+  width: 100%;
+  padding-bottom: 15px;
+}
+.container-grid-info-1, .container-grid-info-2, .container-grid-info-3 {
+  width: 33%;
+}
+.container-grid-flex-info {
+  display: flex;
+  color: #fff;
+  padding: 0px 41px;
+  font-size: 13px;
+}
+.container-grid-info-3 .text-white {
+  font-size: 22px;
+}
+
+
+/*===========================================================
+		C   O   L   O   R   S
+ ===========================================================*/
+
+.primary-color-txt {
+    color: #009e78;
+}
+.secondary-color-txt {
+    color: #636466;
+}
+.third-color-txt {
+    color: #04271f;
+}
+.primary-color-background {
+    background-color: #009e78;
+}
+.secondary-color-background {
+    background-color: #636466;
+}
+.third-color-background {
+    background-color: #04271f;
+}
+
+
+h1{
+  animation: fadeIn;
+  animation-duration: 2s;
+}
+
+.card {
+  transition: transform 0.6s ease;
+  transform-style: preserve-3d;
+}
+
+.card h2,
+.card p {
+  transition: color 0.6s ease;
+  color: #0c1d19; /* color original del h2 */
+}
+
+.card p {
+  color: #45a18b; /* color original del párrafo */
+}
+#txt-proyectos {
+  font-weight: 900 !important;
+  font-size: 36px;
+}
+
+header .button-contactanos {
+  background-color: #fff !important;
+  color: #007f5f !important;
+  padding: 8px 24px !important;
+  border: 1px solid #007f5f !important;
+  border-radius: 10px !important;
+  font-size: 14px;
+  cursor: pointer !important;
+  transition: background-color 0.3s !important;
+}
+
+header .button-contactanos:hover {
+  background-color: #007f5f !important;
+  color: #fff !important;
+}
+
+.header-navbar a:hover{
+    color: #007f5f !important;
+}
